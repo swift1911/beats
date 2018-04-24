@@ -6,7 +6,7 @@ services:
 language: go
 
 # Make sure project can also be built on travis for clones of the repo
-go_import_path: github.com/elastic/beats
+go_import_path: github.com/swift1911/beats
 
 env:
   global:
